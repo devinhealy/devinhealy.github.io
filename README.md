@@ -61,5 +61,24 @@ Tympa is the only fully comprehensive ear and hearing health solution - built to
 
 ![Tympa System Features](tympa_sampl4.png)
 
+---
 
+## Sample 4: Florida Combined Otolaryngology Meeting (FCOM)
 
+Annual ENT & Audiology Conference
+
+[https://fcomnow.com/](https://fcomnow.com/)
+
+FCOM is one of the largest medical conferences for ENT & Audiology professionals. It includes the Florida Society of Otolaryngology-Head and Neck Surgery, Florida Society of Facial Plastic and Reconstructive Surgery, Network of Florida Otolaryngologists and Network of Medical Audiology Professionals.
+
+**Support:**
+- Comprehensive event marketing support & project management
+- Web content writing
+- Organic channel management
+- Video content coordination and direction
+
+![FCOM Conference](FCOM_sample1.png)
+
+![FCOM Conference Two](FCOM_sample2.png)
+
+![FCOM Conference Three](FCOM_sample3.png)
