@@ -25,9 +25,9 @@ A breakthrough robotic technology, uniquely designed for microsurgery and superm
 ---
 
 ## Sample 2: J&J MedTech CARTO™ System - Integrated by Design Campaign
+The CARTO System is the standard in advanced in 3D mapping technology across a wide range of electrophysiology procedures.
 
 [https://www.jnjmedtech.com/en-US/products/cardiovascular/carto/overview/](https://www.jnjmedtech.com/en-US/products/cardiovascular/carto/overview/)
-The CARTO System is the standard in advanced in 3D mapping technology across a wide range of electrophysiology procedures.
 
 **Support:**
 - Product campaign development
@@ -44,9 +44,9 @@ The CARTO System is the standard in advanced in 3D mapping technology across a w
 ---
 
 ## Sample 3: TympaHealth Technologies, US
+Tympa is the only fully comprehensive ear and hearing health solution - built to fit effortlessly into any healthcare environment and empower new ways of delivering care.
 
 [https://tympahealth.com/us/](https://tympahealth.com/us/)
-Tympa is the only fully comprehensive ear and hearing health solution - built to fit effortlessly into any healthcare environment and empower new ways of delivering care.
 
 **Support:**
 - Marketing management & asset development
@@ -64,12 +64,9 @@ Tympa is the only fully comprehensive ear and hearing health solution - built to
 ---
 
 ## Sample 4: Florida Combined Otolaryngology Meeting (FCOM)
-
-Annual ENT & Audiology Conference
+FCOM is one of the largest, annual medical conferences for ENT & Audiology professionals. It includes the Florida Society of Otolaryngology-Head and Neck Surgery, Florida Society of Facial Plastic and Reconstructive Surgery, Network of Florida Otolaryngologists and Network of Medical Audiology Professionals.
 
 [https://fcomnow.com/](https://fcomnow.com/)
-
-FCOM is one of the largest medical conferences for ENT & Audiology professionals. It includes the Florida Society of Otolaryngology-Head and Neck Surgery, Florida Society of Facial Plastic and Reconstructive Surgery, Network of Florida Otolaryngologists and Network of Medical Audiology Professionals.
 
 **Support:**
 - Comprehensive event marketing support & project management
